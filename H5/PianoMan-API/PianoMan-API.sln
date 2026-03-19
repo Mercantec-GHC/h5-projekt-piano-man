@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PianoMan-API", "PianoMan-API\PianoMan-API.csproj", "{4E8C61A2-9A98-4747-8A9B-857F9D5EFB1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E8C61A2-9A98-4747-8A9B-857F9D5EFB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8C61A2-9A98-4747-8A9B-857F9D5EFB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8C61A2-9A98-4747-8A9B-857F9D5EFB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8C61A2-9A98-4747-8A9B-857F9D5EFB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3C954C7-0E1E-4D9A-BC41-83F7DE1C00B3}
+	EndGlobalSection
+EndGlobal
