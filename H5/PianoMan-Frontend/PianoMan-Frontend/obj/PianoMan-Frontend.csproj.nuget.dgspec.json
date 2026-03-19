@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\boluk\\source\\repos\\PianoMan-Frontend\\PianoMan-Frontend\\PianoMan-Frontend.csproj": {}
+    "C:\\Users\\boluk\\Desktop\\Code\\h5-projekt-piano-man\\H5\\PianoMan-Frontend\\PianoMan-Frontend\\PianoMan-Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\boluk\\source\\repos\\PianoMan-Frontend\\PianoMan-Frontend\\PianoMan-Frontend.csproj": {
+    "C:\\Users\\boluk\\Desktop\\Code\\h5-projekt-piano-man\\H5\\PianoMan-Frontend\\PianoMan-Frontend\\PianoMan-Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\boluk\\source\\repos\\PianoMan-Frontend\\PianoMan-Frontend\\PianoMan-Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\boluk\\Desktop\\Code\\h5-projekt-piano-man\\H5\\PianoMan-Frontend\\PianoMan-Frontend\\PianoMan-Frontend.csproj",
         "projectName": "PianoMan-Frontend",
-        "projectPath": "C:\\Users\\boluk\\source\\repos\\PianoMan-Frontend\\PianoMan-Frontend\\PianoMan-Frontend.csproj",
+        "projectPath": "C:\\Users\\boluk\\Desktop\\Code\\h5-projekt-piano-man\\H5\\PianoMan-Frontend\\PianoMan-Frontend\\PianoMan-Frontend.csproj",
         "packagesPath": "C:\\Users\\boluk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\boluk\\source\\repos\\PianoMan-Frontend\\PianoMan-Frontend\\obj\\",
+        "outputPath": "C:\\Users\\boluk\\Desktop\\Code\\h5-projekt-piano-man\\H5\\PianoMan-Frontend\\PianoMan-Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
