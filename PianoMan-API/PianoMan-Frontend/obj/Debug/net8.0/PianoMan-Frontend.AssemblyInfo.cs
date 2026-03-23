@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PianoMan-Frontend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80a08573c77ef9d2f2d36845c9404a21a1d66c57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca079cd9c9d1c29625c0eed674b624862726e2f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("PianoMan-Frontend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PianoMan-Frontend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

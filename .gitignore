@@ -1,0 +1,98 @@
+# Build results
+
+bin/
+obj/
+out/
+
+# User-specific files
+
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Visual Studio files
+
+.vs/
+*.vcxproj.user
+
+# Rider / JetBrains
+
+.idea/
+*.sln.iml
+
+# VS Code
+
+.vscode/
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Environment variables
+
+.env
+.env.*
+
+# NuGet
+
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# ASP.NET Scaffolding
+
+ScaffoldingReadMe.txt
+
+# IIS / Web
+
+wwwroot/lib/
+wwwroot/node_modules/
+
+# Publish output
+
+publish/
+*.publishsettings
+
+# Entity Framework
+
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Secrets
+
+secrets.json
+appsettings.Development.json
+
+# Coverage / testing
+
+coverage/
+*.coverage
+*.coveragexml
+TestResults/
+
+# Resharper
+
+_ReSharper*/
+*.DotSettings.user
+
+# Dotnet tools
+
+.dotnet/
+
+# Docker
+
+docker-compose.override.yml
+
+# Misc
+
+*.swp
+*.tmp
